@@ -53,14 +53,19 @@
 11.  [Neural Networks - usherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
 12.  [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (2014-2015)
 13.  [Deep Learning - Nvidia](https://developer.nvidia.com/deep-learning-courses) (2015)
-14.  [Graduate Summer School: Deep Learning, Feature Learning] (https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)
+14.  [Graduate Summer School: Deep Learning, Feature Learning](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)
 15.  [Deep Learning - Udacity/Google](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke and Arpan Chakraborty (2016)
 16.  [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) by Prof. Ali Ghodsi at University of Waterloo (2015)
 17.  [Statistical Machine Learning - CMU](https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) by Prof. Larry Wasserman
 18.  [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) by Yann LeCun (2016)
 19.  [Bay area DL school](http://www.bayareadlschool.org/) by Andrew Ng, Yoshua Bengio, Samy Bengio, Andrej Karpathy, Richard Socher, Hugo Larochelle and many others @ Stanford, CA (2016)
-20.[Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
-21. [UVA Deep Learning Course] (http://uvadlc.github.io) MSc in Artificial Intelligence for the University of Amsterdam.
+20. [Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
+21. [UVA Deep Learning Course](http://uvadlc.github.io) MSc in Artificial Intelligence for the University of Amsterdam.
+22. [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+23. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+24. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+25. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
+26. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
 
 ### Videos and Lectures
 
@@ -81,6 +86,7 @@
 15.  [A beginners Guide to Deep Neural Networks](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html) By Natalie Hammel and Lorraine Yurshansky
 16.  [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) by Steve Jurvetson (and panel) at VLAB in Stanford. 
 17. [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ
+18. [NIPS 2016 lecture and workshop videos](https://nips.cc/Conferences/2016/Schedule) - NIPS 2016
 
 ### Papers
 *You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
@@ -89,10 +95,9 @@
 2.  [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
 3.  [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
 4.  [CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
-5.  [Neural Networks for Named Entity
-Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stanford.edu/~socherr/pa4-ner.zip)
+5.  [Neural Networks for Named Entity Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stanford.edu/~socherr/pa4-ner.zip)
 6. [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
-7. [Geoff Hinton's reading list (all papers)] (http://www.cs.toronto.edu/~hinton/deeprefs.html)
+7. [Geoff Hinton's reading list (all papers)](http://www.cs.toronto.edu/~hinton/deeprefs.html)
 8. [Supervised Sequence Labelling with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/preprint.pdf)
 9.  [Statistical Language Models based on Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
 10.  [Training Recurrent Neural Networks](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
@@ -112,7 +117,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 24.  [Speech Recognition with Deep Recurrent Neural Networks](http://www.cs.toronto.edu/~fritz/absps/RNN13.pdf)
 25.  [Reinforcement Learning Neural Turing Machines](http://arxiv.org/pdf/1505.00521v1)
 26.  [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)
-27. [Google - Sequence to Sequence  Learning with Nneural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+27. [Google - Sequence to Sequence  Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 28. [Memory Networks](http://arxiv.org/pdf/1410.3916v10)
 29. [Policy Learning with Continuous Memory States for Partially Observed Robotic Control](http://arxiv.org/pdf/1507.01273v1)
 30. [Microsoft - Jointly Modeling Embedding and Translation to Bridge Video and Language](http://arxiv.org/pdf/1505.01861v1.pdf)
@@ -120,8 +125,11 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 32. [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/pdf/1506.07285v1.pdf)
 33. [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
 34. [Batch Normalization](https://arxiv.org/abs/1502.03167)
-36. [Residual Learning](https://arxiv.org/pdf/1512.03385v1.pdf)
-37. [Berkeley AI Research (BAIR) Laboratory] Image-to-Image Translation with Conditional Adversarial Networks (https://arxiv.org/pdf/1611.07004v1.pdf) 
+35. [Residual Learning](https://arxiv.org/pdf/1512.03385v1.pdf)
+36. [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf) 
+37. [Berkeley AI Research (BAIR) Laboratory](https://arxiv.org/pdf/1611.07004v1.pdf) 
+38. [MobileNets by Google](https://arxiv.org/abs/1704.04861)
+39. [Cross Audio-Visual Recognition in the Wild Using Deep Learning](https://arxiv.org/abs/1706.05739)
 
 
 
@@ -136,13 +144,16 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 7.  [Neural Networks for Matlab](http://uk.mathworks.com/help/pdf_doc/nnet/nnet_ug.pdf)
 8.  [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 9.  [Torch7 Tutorials](https://github.com/clementfarabet/ipam-tutorials/tree/master/th_tutorials)
-10.  [The Best Machine Learning Tutorials On The Web] (https://github.com/josephmisiti/machine-learning-module)
+10.  [The Best Machine Learning Tutorials On The Web](https://github.com/josephmisiti/machine-learning-module)
 11. [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
 12. [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 13. [More TensorFlow tutorials](https://github.com/pkmital/tensorflow_tutorials)
 13. [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples)
 14. [Keras and Lasagne Deep Learning Tutorials](https://github.com/Vict0rSch/deep_learning)
 15. [Classification on raw time series in TensorFlow with a LSTM RNN](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
+16. [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
+17. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World)
+
 
 ## Researchers
 
@@ -168,7 +179,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 20. [ Clement Farabet ](http://www.clement.farabet.net/)
 21. [ Dan Claudiu Cireșan ](http://www.idsia.ch/~ciresan/)
 22. [ David Reichert ](http://serre-lab.clps.brown.edu/person/david-reichert/)
-23. [ Derek Rose ](http://mil.engr.utk.edu/nmil/member/5)
+23. [ Derek Rose ](http://mil.engr.utk.edu/nmil/member/5.html)
 24. [ Dong Yu ](http://research.microsoft.com/en-us/people/dongyu/default.aspx)
 25. [ Drausin Wulsin ](http://www.seas.upenn.edu/~wulsin/)
 26. [ Erik M. Schmidt ](http://music.ece.drexel.edu/people/eschmidt)
@@ -186,7 +197,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 38. [ Honglak Lee ](http://web.eecs.umich.edu/~honglak/)
 39. [ Hugo Larochelle ](http://www.dmi.usherb.ca/~larocheh/index_en.html)
 40. [ Ilya Sutskever ](http://www.cs.toronto.edu/~ilya/)
-41. [ Itamar Arel ](http://mil.engr.utk.edu/nmil/member/2)
+41. [ Itamar Arel ](http://mil.engr.utk.edu/nmil/member/2.html)
 42. [ James Martens ](http://www.cs.toronto.edu/~jmartens/)
 43. [ Jason Morton ](http://www.jasonmorton.com/)
 44. [ Jason Weston ](http://www.thespermwhale.com/jaseweston/)
@@ -203,7 +214,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 55. [ Ludovic Arnold ](http://ludovicarnold.altervista.org/home/)
 56. [ Marc'Aurelio Ranzato ](http://www.cs.nyu.edu/~ranzato/)
 57. [ Martin Längkvist ](http://aass.oru.se/~mlt/)
-58. [ Misha Denil ](http://www.cs.ubc.ca/~mdenil/)
+58. [ Misha Denil ](http://mdenil.com/)
 59. [ Mohammad Norouzi ](http://www.cs.toronto.edu/~norouzi/)
 60. [ Nando de Freitas ](http://www.cs.ubc.ca/~nando/)
 61. [ Navdeep Jaitly ](http://www.cs.utoronto.ca/~ndjaitly/)
@@ -221,7 +232,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 73. [ Reinhold Scherer ](http://bci.tugraz.at/scherer/)
 74. [ Richard Socher ](http://www.socher.org/)
 75. [ Rob Fergus ](http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php)
-76. [ Robert Coop ](http://mil.engr.utk.edu/nmil/member/19)
+76. [ Robert Coop ](http://mil.engr.utk.edu/nmil/member/19.html)
 77. [ Robert Gens ](http://homes.cs.washington.edu/~rcg/)
 78. [ Roger Grosse ](http://people.csail.mit.edu/rgrosse/)
 79. [ Ronan Collobert ](http://ronan.collobert.com/)
@@ -232,7 +243,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 84. [ Tapani Raiko ](http://users.ics.aalto.fi/praiko/)
 85. [ Tara Sainath ](https://sites.google.com/site/tsainath/)
 86. [ Tijmen Tieleman ](http://www.cs.toronto.edu/~tijmen/)
-87. [ Tom Karnowski ](http://mil.engr.utk.edu/nmil/member/36)
+87. [ Tom Karnowski ](http://mil.engr.utk.edu/nmil/member/36.html)
 88. [ Tomáš Mikolov ](https://research.facebook.com/tomas-mikolov)
 89. [ Ueli Meier ](http://www.idsia.ch/~meier/)
 90. [ Vincent Vanhoucke ](http://vincent.vanhoucke.com)
@@ -241,7 +252,10 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 93. [ Yichuan Tang ](http://www.cs.toronto.edu/~tang/)
 94. [ Yoshua Bengio ](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 95. [ Yotaro Kubo ](http://yota.ro/)
-96. [ Youzhi (Will) Zou](http://ai.stanford.edu/~wzou)
+96. [ Youzhi (Will) Zou ](http://ai.stanford.edu/~wzou)
+97. [ Fei-Fei Li ](http://vision.stanford.edu/feifeili)
+98. [ Ian Goodfellow ](https://research.google.com/pubs/105214.html)
+99. [ Robert Laganière ](http://www.site.uottawa.ca/~laganier/)
 
 
 ### WebSites
@@ -270,6 +284,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 22.  [visualqa.org](http://www.visualqa.org/)
 23.  [www.mpi-inf.mpg.de/departments/computer-vision...](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/)
 24.  [Deep Learning News](http://news.startup.ml/)
+25.  [Machine Learning is Fun! Adam Geitgey's Blog](https://medium.com/@ageitgey/)
 
 ### Datasets
 
@@ -278,7 +293,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 3.  [CIFAR-10 and CIFAR-100](http://www.cs.toronto.edu/~kriz/cifar.html)
 4.  [IMAGENET](http://www.image-net.org/)
 5.  [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 80 Million tiny images6.  
-6.  [Flickr Data](http://yahoolabs.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
+6.  [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
 7.  [Berkeley Segmentation Dataset 500](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
 8.  [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
 9.  [Flickr 8k](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
@@ -307,7 +322,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 35. [Efficient Content-based Retrieval Group](http://www.cs.washington.edu/research/imagedatabase/)
 37. [Densely Sampled View Spheres](http://ls7-www.cs.uni-dortmund.de/~peters/pages/research/modeladaptsys/modeladaptsys_vba_rov.html) - Densely sampled view spheres - upper half of the view sphere of two toy objects with 2500 images each. (Formats: tiff)
 38. [Computer Science VII (Graphical Systems)](http://ls7-www.cs.uni-dortmund.de/)
-40. [Digital Embryos](http://vision.psych.umn.edu/www/kersten-lab/demos/digitalembryo.html) - Digital embryos are novel objects which may be used to develop and test object recognition systems. They have an organic appearance. (Formats: various formats are available on request)
+40. [Digital Embryos](https://web-beta.archive.org/web/20011216051535/vision.psych.umn.edu/www/kersten-lab/demos/digitalembryo.html) - Digital embryos are novel objects which may be used to develop and test object recognition systems. They have an organic appearance. (Formats: various formats are available on request)
 41. [Univerity of Minnesota Vision Lab](http://vision.psych.umn.edu/www/kersten-lab/kersten-lab.html) 
 42. [El Salvador Atlas of Gastrointestinal VideoEndoscopy](http://www.gastrointestinalatlas.com) - Images and Videos of his-res of studies taken from Gastrointestinal Video endoscopy. (Formats: jpg, mpg, gif)
 43. [FG-NET Facial Aging Database](http://sting.cycollege.ac.cy/~alanitis/fgnetaging/index.htm) - Database contains 1002 face images showing subjects at different ages. (Formats: jpg)
@@ -358,7 +373,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 95. [Stereo Images with Ground Truth Disparity and Occlusion](http://www-dbv.cs.uni-bonn.de/stereo_data/) - a small set of synthetic images of a hallway with varying amounts of noise added. Use these images to benchmark your stereo algorithm. (Formats: raw, viff (khoros), or tiff)
 96. [Stuttgart Range Image Database](http://range.informatik.uni-stuttgart.de) - A collection of synthetic range images taken from high-resolution polygonal models available on the web (Formats: homebrew)
 97. [Department Image Understanding](http://www.informatik.uni-stuttgart.de/ipvr/bv/bv_home_engl.html) 
-99. [The AR Face Database](http://rvl1.ecn.purdue.edu/~aleix/aleix_face_DB.html) - Contains over 4,000 color images corresponding to 126 people's faces (70 men and 56 women). Frontal views with variations in facial expressions, illumination, and occlusions. (Formats: RAW (RGB 24-bit))
+99. [The AR Face Database](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html) - Contains over 4,000 color images corresponding to 126 people's faces (70 men and 56 women). Frontal views with variations in facial expressions, illumination, and occlusions. (Formats: RAW (RGB 24-bit))
 100. [Purdue Robot Vision Lab](http://rvl.www.ecn.purdue.edu/RVL/)
 101. [The MIT-CSAIL Database of Objects and Scenes](http://web.mit.edu/torralba/www/database.html) - Database for testing multiclass object detection and scene recognition algorithms. Over 72,000 images with 2873 annotated frames. More than 50 annotated object classes. (Formats: jpg)
 102. [The RVL SPEC-DB (SPECularity DataBase)](http://rvl1.ecn.purdue.edu/RVL/specularity_database/) - A collection of over 300 real images of 100 objects taken under three different illuminaiton conditions (Diffuse/Ambient/Directed). -- Use these images to test algorithms for detecting and compensating specular highlights in color images. (Formats: TIFF )
@@ -435,7 +450,11 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 39.  [Torchnet - Torch based Deep Learning Library](https://github.com/torchnet/torchnet)
 40.  [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle)
 41.  [NeuPy - Theano based Python library for ANN and Deep Learning](http://neupy.com)
-
+42.  [Lasagne - a lightweight library to build and train neural networks in Theano](https://github.com/Lasagne/Lasagne)
+43.  [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne](https://github.com/dnouri/nolearn)
+44.  [Sonnet - a library for constructing neural networks by Google's DeepMind](https://github.com/deepmind/sonnet)
+45.  [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
+46.  [CNTK - Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
 
 ### Miscellaneous
 
@@ -447,13 +466,13 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 6.  [TorontoDeepLEarning convnet](https://github.com/TorontoDeepLearning/convnet)
 8.  [gfx.js](https://github.com/clementfarabet/gfx.js)
 9. [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
-10. [Misc from MIT's 'Advanced Natural Language Processing' course] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
+10. [Misc from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
 11. [Misc from MIT's 'Machine Learning' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/)
 12. [Misc from MIT's 'Networks for Learning: Regression and Classification' course](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
 13. [Misc from MIT's 'Neural Coding and Perception of Sound' course](http://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/index.htm)
 14. [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
 15. [A chess AI that learns to play chess using deep learning.](https://github.com/erikbern/deep-pink)
-16. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind] (https://github.com/kristjankorjus/Replicating-DeepMind)
+16. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
 17. [Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps](https://github.com/idio/wiki2vec)
 18. [The original code from the DeepMind article + tweaks](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
 19. [Google deepdream - Neural Network art](https://github.com/google/deepdream)
@@ -468,6 +487,9 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 28. [AlphaGo - A replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search"](https://github.com/Rochester-NRT/AlphaGo)
 29. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 30. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
+31. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+32. [Dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
+33. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
 
 -----
 ### Contributing
